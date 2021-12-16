@@ -53,7 +53,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       resource_group_name: rg-bicep-armdeploy-githubactions
-      location: India East
+      location: South India
 
     steps:
       - uses: actions/checkout@v2
